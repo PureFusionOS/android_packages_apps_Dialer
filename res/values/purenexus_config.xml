@@ -16,4 +16,6 @@
 -->
 <resources>
     <bool name="config_dialpadDigitsStaticColor">false</bool>
+    <bool name="call_recording_enabled">false</bool>
+    <integer name="call_recording_audio_source">1</integer>
 </resources>
